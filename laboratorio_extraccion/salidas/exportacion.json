@@ -1,0 +1,7 @@
+{
+  "metodo": "reglas",
+  "llm_modo": "simulado",
+  "filas": 0,
+  "duplicados": [],
+  "aviso": "El formato válido no prueba fidelidad. La aprobación humana es obligatoria."
+}
