@@ -5,7 +5,6 @@
 ## Integrantes
 
 - Isaac Torres Vargas
-- [Agregar integrantes si aplica]
 
 ---
 
