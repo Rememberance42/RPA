@@ -74,7 +74,7 @@ Proyecto integral de RPA-parcial 2/
 
 │
 
-├── PAD/
+├── PAD/ **NOTA IMPORTANTE!: Por simplicidad estas evidencias se han subido directamente al classroom**
 
 |   ├── bitacora_solicitudes.txt
 
