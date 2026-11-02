@@ -47,30 +47,70 @@ entre extracción, validación y automatización.
 # Estructura del proyecto
 
 
-laboratorio_extraccion/
+Proyecto integral de RPA-parcial 2/
+
 │
 
 ├── scripts/
+
 │   ├── E02_extraer_texto_ocr.py
+
 │   ├── E03_extraer_con_reglas.py
+
 │   ├── E04_extraer_con_llm.py
+
 │   ├── E05_validar_comparar_exportar.py
+
 │   └── comun.py
+
 │
+
 ├── entradas/
+
 │   ├── C01.pdf
+
 │   ├── C02.pdf
+
 │   └── C03.pdf
+
 │
+
+├── PAD/
+
+|   ├── bitacora_solicitudes.txt
+
+|   ├── Carga exitiosa.mp4
+
+|   ├── Datos Invalidos.mp4
+
+|   ├── Duplicado.mp4
+
+|   ├── Flujo PAD y elementos UI.mp4
+
+|   ├── Lento correcto.mp4
+
+|   ├── NO se encontro la pantalla.png
+
+|   ├── Consola de locura.png
+
 ├── salidas/
+
 │   ├── ocr/
+
 │   ├── reglas/
+
 │   ├── llm_simulado/
+
 │   ├── revision_humana.json
+
 │   ├── reporte_validacion.json
+
 │   ├── pendientes_revision.json
+
 │   └── solicitudes_para_pad.csv
+
 │
+
 README.md
 
 ---
