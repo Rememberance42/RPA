@@ -49,6 +49,7 @@ entre extracción, validación y automatización.
 
 laboratorio_extraccion/
 │
+
 ├── scripts/
 │   ├── E02_extraer_texto_ocr.py
 │   ├── E03_extraer_con_reglas.py
@@ -70,7 +71,7 @@ laboratorio_extraccion/
 │   ├── pendientes_revision.json
 │   └── solicitudes_para_pad.csv
 │
-└── README.md
+README.md
 
 ---
 
